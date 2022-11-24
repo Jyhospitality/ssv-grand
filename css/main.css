@@ -287,6 +287,9 @@ pre {
 	overflow: auto;
 	padding: 15px;
 }
+.marg-lf{
+	margin-left: 200px;
+}
 code,
 kbd,
 tt,
@@ -1808,7 +1811,8 @@ body.vertical.vertical-close .k2t-container > div {
 /* ------------ Post home 3 columns --------------*/
 .k2t-medium-post-h{
 	background: url('../images/bgpost.png') repeat;
-	padding-bottom: 117px;
+	padding-bottom: 50px;
+	/* padding-bottom: 117px; */
 }
 .k2t-medium-post-h .k2t-title-bar{
 	margin-top: 0;

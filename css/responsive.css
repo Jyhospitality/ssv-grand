@@ -151,6 +151,13 @@
 	.k2t-cal-f, .k2t-cal-s{
 		width: 100%;
 	}
+	
+}
+@media only screen and (min-width: 400px){
+	.marg-lf{
+		margin-left: 0;
+	}
+	
 }
 
 @media only screen and (max-width: 530px){
@@ -160,6 +167,7 @@
 	.k2t-step-f{
 		width: 50%;
 	}
+	
 }
 
 @media only screen and (min-width: 364px) and (max-width: 470px){
@@ -260,6 +268,7 @@
 		padding-left: 0px !important;
 		padding-right: 0px !important;
 		padding-bottom: 30px;
+		margin-left: 15px;
 	}
 	.k2t-about-page .k2t-content.no-sidebar.b-medium .post-inner .flx-entry-thumb{
 		margin-bottom: 0px;
@@ -1332,3 +1341,5 @@
 	}
 	
 }
+
+
